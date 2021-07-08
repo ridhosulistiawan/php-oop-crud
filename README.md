@@ -6,4 +6,4 @@ Disini saya menggunakan PHP dengan teknik OOP untuk membuat CRUD sederhana.
 Keterangan DB: <br>
 DBName : oop-php <br>
 DBtable : user <br>
-FileName : db.sql <br>
+FileName : user.sql <br>
